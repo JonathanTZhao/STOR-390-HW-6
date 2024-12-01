@@ -2,7 +2,8 @@
 title: "Hw 7"
 author: "Jonathan Zhao"
 date: "11/28/2024"
-output: 
+output:
+  pdf_document: default
   html_document:
     number_sections: true
 ---
